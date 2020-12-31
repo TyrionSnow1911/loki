@@ -1,3 +1,6 @@
 [submodule "src/backend"]
 	path = src/backend
 	url = https://github.com/TyrionSnow1911/lokiBackend.git
+[submodule "src/frontend"]
+	path = src/frontend
+	url = https://github.com/TyrionSnow1911/lokiFrontend.git
